@@ -1,3 +1,5 @@
+<h2 align="center">Hi, I'm Rishika Gupta  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+
 # 💫 About Me:
 ### Hi there 👋, I'm Vikram<br><br>I'm a MERN Stack Developer from New Delhi, India, with a passion for building dynamic and user-friendly web applications from the ground up.<br><br>- 🔭 I’m currently working on my Hotel Listing Web App, **[Wonderbnb](https://github.com/imvikrammaurya/wonderbnb)**.<br>- 🌱 I’m currently learning about AI integration in web development and prompt engineering.<br>- 💼 I’m looking for **Associate Software Engineer** roles graduating in 2025.<br>- 📫 How to reach me: **imvikrammaurya@outlook.com** or connect with me on **[LinkedIn](https://linkedin.com/in/imvikrammaurya)**.<br>- ⚡ Fun fact: I enjoy animating cartoons in my free time!
 
