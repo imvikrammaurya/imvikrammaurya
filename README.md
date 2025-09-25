@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Vikram Maurya  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+<h1 align="center">Hi, I'm Vikram Maurya  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
 
 <h2 align="center"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEj5it4SUhr33g1P_0oXUaKOhO5NRHaTdNozBMnSIC1odWuPI5_Bv0p9ZHXJpNeGE7WbP3AtHkj84Fyy0mefZEHUzVUFTLJHClZm1xf2UOrrMVPkz3QeVdkXk0t1QnuXxdV65sWs54jLP_Rp3C1fAQHNqLj2Llg7YJ4Tsz1nM1psmYiWcmfTHHKVwQI7Dac"></h2>
 
