@@ -3,8 +3,8 @@
 <h2 align="center"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEj5it4SUhr33g1P_0oXUaKOhO5NRHaTdNozBMnSIC1odWuPI5_Bv0p9ZHXJpNeGE7WbP3AtHkj84Fyy0mefZEHUzVUFTLJHClZm1xf2UOrrMVPkz3QeVdkXk0t1QnuXxdV65sWs54jLP_Rp3C1fAQHNqLj2Llg7YJ4Tsz1nM1psmYiWcmfTHHKVwQI7Dac"></h2>
 
 
-# 💫 About Me:
-### Hi there 👋, I'm Vikram<br><br>I'm a MERN Stack Developer from New Delhi, India, with a passion for building dynamic and user-friendly web applications from the ground up.<br><br>- 🔭 I’m currently working on my Hotel Listing Web App, **[Wonderbnb](https://github.com/imvikrammaurya/wonderbnb)**.<br>- 🌱 I’m currently learning about AI integration in web development and prompt engineering.<br>- 💼 I’m looking for **Associate Software Engineer** roles graduating in 2025.<br>- 📫 How to reach me: **imvikrammaurya@outlook.com** or connect with me on **[LinkedIn](https://linkedin.com/in/imvikrammaurya)**.<br>- ⚡ Fun fact: I enjoy animating cartoons in my free time!
+<h2> 💫 About Me: </h2>
+### Hi there 👋, I'm Vikram<br><br>I'm a MERN Stack Developer from New Delhi, India, with a passion for building dynamic and user-friendly web applications from the ground up.<br><br>- 🔭 I’m currently working on my Hotel Listing Web App, **[Wonderbnb](https://github.com/imvikrammaurya/wonderbnb)**.<br>- 🌱 I’m currently learning about AI integration in web development and prompt engineering.<br>- 💼 I’m looking for **Associate Software Engineer** roles graduating in 2025.<br>- 📫 How to reach me: **imvikrammaurya@outlook.com** or connect with me on **[LinkedIn](https://linkedin.com/in/imvikrammaurya)**.<br>- ⚡ Fun fact: I enjoy animating cartoons in my free time! 
 
 
 # 💻 Tech Stack:
